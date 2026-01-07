@@ -29,7 +29,11 @@
 6. Copy the script below:
 
 ```zsh
-curl https://raw.githubusercontent.com/assafdori/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+curl https://raw.githubusercontent.com/mataruzz/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+```
+or, trying auto-detect volume:
+```zsh
+curl https://raw.githubusercontent.com/mataruzz/bypass-mdm/main/bypass-mdm-v2.sh -o bypass-mdm-v2.sh && chmod +x ./bypass-mdm-v2.sh && ./bypass-mdm-v2.sh
 ```
 
 7. Launch Terminal (Utilities > Terminal).
